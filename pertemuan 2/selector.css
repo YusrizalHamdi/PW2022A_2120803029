@@ -3,7 +3,8 @@ body{
 }
 
 
-#judul{
-    font-size: 40px;
-    color: brown;
+p, cetak-miring{
+    
+    color: skyblue;
+    text-decoration: underline;
 }

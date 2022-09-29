@@ -1,0 +1,6 @@
+ul#sarapan li{
+    color: burlywood;
+}
+ul#sarapan li.favorit{
+    color: blue;
+}
