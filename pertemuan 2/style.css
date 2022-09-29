@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+p{
+    color: coral;
+    text-align: justify;
+    text-indent: 20px;
+    text-decoration:none;
+    text-transform: capitalize;
+    letter-spacing: 1.5ch;
+    background-color: gray;
+}
